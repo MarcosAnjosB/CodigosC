@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8s0ZN8wC4AIv2JT8ij4WqWkyBG9dDlDfdn5L1N8icCCPYmk7t0PI8T4HHtd+nuoODzFTEVg0N428i6UmbsptTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Marcos Anjos\\Documents\\Teste-Nivelamento-Desenvolvedor-CSharp-API-ResolvidoMarcosAnjosBarbosa\\Questao1\\Questao1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Marcos Anjos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Marcos Anjos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Marcos Anjos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Marcos Anjos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
